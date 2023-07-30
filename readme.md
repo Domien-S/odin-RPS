@@ -1,0 +1,1 @@
+This is the rock papers scicors exercise for the odin project to learn javascript
